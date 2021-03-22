@@ -2,7 +2,5 @@
 
 ### Rômulo@PinheiroCosta  
 [![Instagram Badge](https://img.shields.io/badge/-@rompinheiro-303030?style=social&logo=Instagram)](https://www.instagram.com/rompinheiro)  
-[![Linkedin Badge](https://img.shields.io/badge/-romulopinheirocosta-303030?style=social&logo=Linkedin)](https://www.linkedin.com/in/r%C3%B4mulo-pinheiro-costa-b8aa53a9/)  
+[![Hackerrank Badge](https://img.shields.io/badge/-PinheiroCosta-303030?style=social&logo=Hackerrank)](https://img.shields.io/badge/-Pinheirocosta-303030?style=social&logo=Hackerrank)  
 [![Gmail Badge](https://img.shields.io/badge/-romulopinheirocosta@gmail.com-303030?style=social&logo=Gmail)](mailto:romulopinheirocosta@gmail.com)  
-
-You can call me Rom, by the way.  
