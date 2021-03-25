@@ -5,5 +5,3 @@
 [![Codepen Badge](https://img.shields.io/badge/-@PinheiroCosta-303030?style=social&logo=Codepen)](https://codepen.io/pinheirocosta)  
 
 [![Hackerrank Badge](https://img.shields.io/badge/-@PinheiroCosta-303030?style=social&logo=Hackerrank)](https://www.hackerrank.com/Pinheirocosta)  
-
-[![Gmail Badge](https://img.shields.io/badge/-romulopinheirocosta@gmail.com-303030?style=social&logo=Gmail)](mailto:romulopinheirocosta@gmail.com)  
