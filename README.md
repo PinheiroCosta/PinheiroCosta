@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/37278803/112063646-7e6a5e00-8b40-11eb-9fb0-8e1a32067e32.png">
+<img align="left" src="https://user-images.githubusercontent.com/37278803/112488320-33c52d80-8d5c-11eb-98eb-403b8fc95ca9.png">
 
 [![Instagram Badge](https://img.shields.io/badge/-@RomPinheiro-303030?style=social&logo=Instagram)](https://www.instagram.com/rompinheiro)  
 
