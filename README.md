@@ -1,5 +1,3 @@
-<img align="left" src="https://user-images.githubusercontent.com/37278803/112825055-adf9f880-9061-11eb-9b5c-6542bf4040ce.png">
-
 [![Instagram Badge](https://img.shields.io/badge/-@RomPinheiro-303030?style=social&logo=Instagram)](https://www.instagram.com/rompinheiro)  
 
 [![Codepen Badge](https://img.shields.io/badge/-@PinheiroCosta-303030?style=social&logo=Codepen)](https://codepen.io/pinheirocosta)  
