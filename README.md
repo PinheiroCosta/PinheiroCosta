@@ -6,5 +6,4 @@ Please feel free to contact me for questions and suggestions. You can find me on
 
 See you! 
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/PinheiroCosta.png" alt="TryHackMe badge">
- 
+ <a href="https://tryhackme.com/p/PinheiroCosta"><img src="https://tryhackme-badges.s3.amazonaws.com/PinheiroCosta.png" alt="TryHackMe Badge"/></a>
