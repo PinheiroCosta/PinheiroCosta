@@ -6,4 +6,4 @@ Please feel free to contact me with questions and suggestions. You can find me o
 
 See you! 
 
- <a href="https://tryhackme.com/p/PinheiroCosta"><img align="right" src="https://github.com/PinheiroCosta/PinheiroCosta/blob/main/tryhackme-badge.png" alt="TryHackMe Badge"/></a>
+ <a href="https://tryhackme.com/p/PinheiroCosta" target="_blank"><img align="right" src="https://github.com/PinheiroCosta/PinheiroCosta/blob/main/tryhackme-badge.png" alt="TryHackMe Badge"/></a>
