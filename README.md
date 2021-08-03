@@ -5,3 +5,5 @@ I'm Rômulo. Welcome to my Github profile. Here you will find the result of my p
 Feel free to contact me with questions and suggestions. You can find me on [Instagram](https://www.instagram.com/rompinheiro/) or via email: romulopinheirocosta@gmail.com.
 
 See you!
+
+<a href="https://tryhackme.com/p/PinheiroCosta"><img align="right" src="https://github.com/PinheiroCosta/PinheiroCosta/blob/main/tryhackme-badge.png" alt="TryHackMe Badge"/></a>
