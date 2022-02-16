@@ -12,5 +12,5 @@ I also create some [web stuff](https://codepen.io/pinheirocosta) for fun, like t
 [<img src="https://user-images.githubusercontent.com/37278803/130430880-e5be1784-891c-42a2-a624-e7a88a48f551.png" width="200">](https://codepen.io/pinheirocosta/full/NWjJzdj)
   
 **In Development**:  
-[Rombot](https://github.com/PinheiroCosta/rombot) - A simple Discord bot 
+[Rombot](https://github.com/PinheiroCosta/rombot) - A simple Discord bot  
 [Cnestesia](https://github.com/PinheiroCosta/cnestesia) - Sound and light frequencies convertion tool.
