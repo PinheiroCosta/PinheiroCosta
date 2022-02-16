@@ -1,7 +1,8 @@
  <b>Hello</b> there, I'm Rômulo.  
 
 
-Welcome to my profile. Here you may find some [scripts](https://github.com/PinheiroCosta/MyScripts) to improve your productivity with **GNU/Linux**.   
+Welcome to my profile. Here you may find some [scripts](https://github.com/PinheiroCosta/MyScripts) to  
+improve your productivity with **GNU/Linux**.   
 I also create some [web stuff](https://codepen.io/pinheirocosta) for fun, like these [React Apps](https://github.com/PinheiroCosta/react-apps):
 
 [comment]: <> (codepen links)
@@ -11,4 +12,4 @@ I also create some [web stuff](https://codepen.io/pinheirocosta) for fun, like t
   
 Side Projects:  
 [Rombot](https://github.com/PinheiroCosta/rombot) - A simple Discord bot  
-[Cnestesia](https://github.com/PinheiroCosta/cnestesia) - C Library able to manipulate sound and light frequencies.
+[Cnestesia](https://github.com/PinheiroCosta/cnestesia) - Sound and light frequencies convertion tool.
