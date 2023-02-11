@@ -1,15 +1,6 @@
- <b>Hello</b> there, I'm Rômulo.  
-
-
-Welcome to my profile. Here you may find some [tools](https://github.com/PinheiroCosta/MyScripts) to improve   
-your productivity with GNU/Linux.  
-  
-I also create some [web stuff](https://codepen.io/pinheirocosta) for fun, like these [React Apps](https://github.com/PinheiroCosta/react-apps):
-
-[comment]: <> (codepen links)
-[<img src="https://user-images.githubusercontent.com/37278803/129112838-d476f040-b03b-482c-891c-92177fe0871b.png" width="200">](https://codepen.io/pinheirocosta/full/gOWBQNP)
-[<img src="https://user-images.githubusercontent.com/37278803/129113241-3f78437f-4e00-469b-8f98-26329e0325ce.png" width="200">](https://codepen.io/pinheirocosta/full/vYmjGwK)  
-[<img src="https://user-images.githubusercontent.com/37278803/215371807-fd3bd1c4-7c57-4b7e-8e43-76f16088c9ba.png" width="200">](https://codepen.io/pinheirocosta/full/abqPmKz)
-[<img src="https://user-images.githubusercontent.com/37278803/130430880-e5be1784-891c-42a2-a624-e7a88a48f551.png" width="200">](https://codepen.io/pinheirocosta/full/NWjJzdj)
-
-  
+<b>Hello</b> there, I'm Rômulo. Welcome to my profile! 
+> 
+> I'm working as a software developer for <b>Canopus Informática</b> since 2021, helping their clients to maintain their code clean, and free of bugs. 
+> 
+Here you will find free [tools](https://github.com/PinheiroCosta/MyScripts) created by me. Most of them helped me get rid of repetitive tasks at some point of my life. They are not currently being maintained, so i expect you at least to have some degree of understanding what you're doing, and to use them at your own risk. 
+ 
