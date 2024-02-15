@@ -5,4 +5,4 @@
 > 
 > For professional purposes don't hesitate to get in touch with me via [LinkedIn](https://www.linkedin.com/in/pinheirocosta/).  
 >  
-> Technical related issues or another subject please consider sending me an email at: romulopinheirocosta@gmail.com or reaching out on Discord: Rompc
+> Technical related issues or another subject please consider sending me an email to: romulopinheirocosta@gmail.com or reaching out on Discord: Rompc
