@@ -5,9 +5,9 @@
 >  
 > Technical related issues or another subject please consider sending me an email to: romulopinheirocosta@gmail.com or reaching out on Discord: Rompc
 <a href=https://github.com/pinheirocosta.gpg>
-<img alt="Static Badge" src="https://img.shields.io/badge/gpg-pubkey-gray?style=plastic&color=blue&link=https%3A%2F%2Fgithub.com%2Fpinheirocosta.gpg">
+<img alt="Static Badge" src="https://img.shields.io/badge/gpg-pubkey-gray?style=flat&color=blue&link=https%3A%2F%2Fgithub.com%2Fpinheirocosta.gpg">
 </a>
 <br>
 <a href=https://github.com/pinheirocosta>
-<img alt="Views" src="https://komarev.com/ghpvc/?username=pinheirocosta&color=blue&label=views&abbreviated=true&style=plastic">
+<img alt="Views" src="https://komarev.com/ghpvc/?username=pinheirocosta&color=blue&label=views&abbreviated=true&style=flat">
 </a>
