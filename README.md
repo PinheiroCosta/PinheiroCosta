@@ -9,5 +9,5 @@
 </a>
 <br>
 <a href=https://github.com/pinheirocosta>
-<img alt="Views" src="https://komarev.com/ghpvc/?username=pinheirocosta&color=blue&label=views&base=2500&abbreviated=true&style=plastic">
+<img alt="Views" src="https://komarev.com/ghpvc/?username=pinheirocosta&color=blue&label=views&abbreviated=true&style=plastic">
 </a>
