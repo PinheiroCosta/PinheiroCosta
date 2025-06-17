@@ -1,13 +1,7 @@
-<b>Hello</b> there!  
-> I'm Rom, Here you will find free [command-line tools](https://github.com/PinheiroCosta/MyScripts). Since they're not currently being maintained, I expect you to use them at your own risk. Feel free nonetheless to study or improve them if you wish.
->  
-> For professional purposes don't hesitate to get in touch with me via [LinkedIn](https://www.linkedin.com/in/pinheirocosta/).  
->  
-> Technical related issues or another subject please consider sending me an email to: romulopinheirocosta@gmail.com or reaching out on Discord: Rompc
-<a href=https://github.com/pinheirocosta.gpg>
-<img alt="Static Badge" src="https://img.shields.io/badge/gpg-pubkey-gray?style=flat&color=blue&link=https%3A%2F%2Fgithub.com%2Fpinheirocosta.gpg">
-</a>
-<br>
-<a href=https://github.com/pinheirocosta>
-<img alt="Views" src="https://komarev.com/ghpvc/?username=pinheirocosta&color=blue&label=views&abbreviated=true&style=flat">
-</a>
+## Hello there
+
+I'm Rom, a Software Developer with focus on backend development (Django, Python) and modern frontend (React, Webpack). Currently building and maintaining my personal website: [pinheirocosta.com](https://www.pinheirocosta.com).
+
+For professional inquiries:  
+[LinkedIn](https://www.linkedin.com/in/pinheirocosta/)  
+romulo@pinheirocosta.com
